@@ -31,7 +31,7 @@ An interactive HR Analytics Dashboard built using Power BI to analyze employee a
 
 ## Dashboard Preview
 
-Dashboard screenshots are available in the `dashboard-screenshots` folder.
+Dashboard screenshots are uploaded in the repository.
 
 ## Author
 
