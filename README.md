@@ -137,13 +137,13 @@ The dataset contains employee information such as:
 ## 📷 Dashboard Preview
 
 ### Executive Summary
-<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/page1.png">
+<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/blob/main/page1.png">
 
 ### Salary & Career Growth Analysis
-<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/page2.png">
+<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/blob/main/page2.png">
 
 ### Employee Satisfaction & Workforce Insights
-<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/page3.png">
+<img width="100%" src="https://github.com/shweta-todgire/IBM-HR-Analytics-PowerBI/blob/main/page3.png">
 ---
 
 
